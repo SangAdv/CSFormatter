@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CSFormatter.Cli/CSFormatter.Cli.csproj" />
+    <Project Path="src/CSFormatter.Core/CSFormatter.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CSFormatter.Tests/CSFormatter.Tests.csproj" />
+  </Folder>
+</Solution>
